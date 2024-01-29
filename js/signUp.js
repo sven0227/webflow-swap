@@ -1,3 +1,5 @@
+alert("sss")
+
 const url = "https://api.webflow.com/v2/sites/65a1fff36ec356ca7af685ad/collections"
 const options = {
   method: "GET",
